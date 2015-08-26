@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eavesdrop</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+    <string-array name="connection_role">
+        <item>Client</item>
+        <item>Server</item>
+    </string-array>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="record">Record!</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="action_settings">Settings</string>
+</resources>
